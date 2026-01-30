@@ -1,9 +1,9 @@
 # Settings
-$OSName = 'Windows 11 24H2 x64'
+$OSName = 'Windows 11 25H2 x64'
 $OSEdition = 'Pro'
 $OSActivation = 'Retail'
 $OSLanguage = 'de-de'
-$GroupTag = 'AutopilotUnna'
+$GroupTag = 'AutopilotUN'
 $TimeZone = 'W. Europe Standard Time'
 $TimeServerUrl = "https://www.timeapi.io/api/time/current/zone?timeZone=Europe%2FBerlin"
 $OutputFile = "X:\AutopilotHash.csv"
