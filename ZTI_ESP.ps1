@@ -3,7 +3,7 @@ $OSName = 'Windows 11 24H2 x64'
 $OSEdition = 'Pro'
 $OSActivation = 'Retail'
 $OSLanguage = 'en-us'
-$GroupTag = 'AutopilotSpanien'
+$GroupTag = 'AutopilotESP'
 $TimeZone = 'W. Europe Standard Time'
 $TimeServerUrl = "https://www.timeapi.io/api/time/current/zone?timeZone=Europe%2FBerlin"
 $OutputFile = "X:\AutopilotHash.csv"
